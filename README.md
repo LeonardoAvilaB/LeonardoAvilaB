@@ -45,7 +45,9 @@ Aplicación web para la administración de propiedades y bienes raíces, desarro
 | Lenguajes | C#, JavaScript / TypeScript, SQL |
 | Frameworks y web | Blazor, ASP.NET Web Forms, React / Next.js, HTML, CSS |
 | Bases de datos | SQL Server |
-| Herramientas | Docker |
+| Entornos de desarrollo | Visual Studio, Visual Studio Code, SQL Server Management Studio |
+| Despliegue y contenedores | Docker, Vercel, Azure |
+| Virtualización | VirtualBox |
 
 ---
 
